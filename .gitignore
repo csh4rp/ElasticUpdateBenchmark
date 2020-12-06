@@ -1,0 +1,4 @@
+/ElasticUpdateBenchmark/bin/
+/ElasticUpdateBenchmark/obj/
+/.idea/
+/ElasticUpdateBenchmark/BenchmarkDotNet.Artifacts/
